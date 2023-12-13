@@ -1,1 +1,1 @@
-curl -X POST -F "C:\Users\Judith\Pictures\Screenshots\Screenshot 2023-12-13 task 0.png" http://your-server/upload
+jp2a "C:\Users\Judith\Pictures\Screenshots\Screenshot 2023-12-13 task 0.png"
